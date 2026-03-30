@@ -1,5 +1,3 @@
-# oss-audit-24BHI10074
-
 # Open Source Audit: Python Ecosystem
 
 **Student Name:** Madhav Agarwal  
